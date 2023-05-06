@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MVC",
+    "description": "The Model-View-Controller (MVC) architecture is important for software development because it separates an application's data, user interface, and control logic into distinct components."
+  },
+  {
+    "name": "Sequelize",
+    "description": "Sequelize is a valuable tool for Node.js developers because it provides an Object-Relational Mapping (ORM) layer that abstracts away the need to write SQL queries."
+  },
+  {
+    "name": "How to Use Handlebars.js",
+    "description": "To use Handlebars.js, create a Handlebars template with placeholders for data, compile it into a JavaScript function, and use that function to render the data onto the HTML page."
+  }
+]
