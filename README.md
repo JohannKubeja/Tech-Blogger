@@ -78,7 +78,7 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 # Screenshot
-
+<img "Screenshot 2023-05-06 161031.png">
 # Deployed 
 (link may very in deploy status)
 URL:  https://module-14-techblog.herokuapp.com/
