@@ -81,4 +81,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 # Deployed 
 (link may very in deploy status)
-URL:  
+URL:  https://module-14-techblog.herokuapp.com/
